@@ -1,8 +1,1 @@
-#EXTM3U
-
-#EXTINF:-1, tvg-name="" tvg-logo="http://www.66zhibo.net/d/file/2018/1108/smallf529d9956d3ec414faaae940b78b458e1541665656.jpg", 无线新闻台
-http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobilehd_inews.smil/playlist.m3u8?hdnea=st=1586071084~exp=1586157484~acl=/newslive/smil:mobilehd_inews.smil/*~hmac=76004847bdc3702086dae31fbca9d56e8955a6716958a9c54a6297e626fed6d1
-
-#EXTINF:-1, tvg-name="" tvg-logo="http://www.66zhibo.net/d/file/2018/1108/smallf529d9956d3ec414faaae940b78b458e1541665656.jpg", 无线财经资讯台
-http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobilehd_finance.smil/playlist.m3u8?hdnea=st=1586071301~exp=1586157701~acl=/newslive/smil:mobilehd_finance.smil/*~hmac=3209ad511c6e12072cd5797a84be88b97479900259ca41da602ae7e82c158f6f
 
