@@ -1,8 +1,8 @@
 #EXTM3U
 
 #EXTINF:-1, tvg-name="" tvg-logo="https://raw.githubusercontent.com/sheng007/10086-IPTV/master/hk_ico/%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB%E5%8F%B0.png", 无线新闻台
-http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobilehd_inews.smil/playlist.m3u8?hdnea=st=1590611104~exp=1590697504~acl=/newslive/smil:mobilehd_inews.smil/*~hmac=60d25aa684de77f72eaf1704e286de7ee544e1b9bdd2c5369a07e07ab8a2e475
+http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobilehd_inews.smil/playlist.m3u8?hdnea=st=1590697508~exp=1590783908~acl=/newslive/smil:mobilehd_inews.smil/*~hmac=cc4b12c862c2dba30702afe01e73278b107cbba3a4a9c220e79765695edaa963
 
 #EXTINF:-1, tvg-name="" tvg-logo="https://raw.githubusercontent.com/sheng007/10086-IPTV/master/hk_ico/%E6%97%A0%E7%BA%BF%E8%B4%A2%E7%BB%8F%E8%B5%84%E8%AE%AF%E5%8F%B0.png", 无线财经资讯台
-http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobilehd_finance.smil/playlist.m3u8?hdnea=st=1590611104~exp=1590697504~acl=/newslive/smil:mobilehd_finance.smil/*~hmac=3476e841798d5bcfccee1f44f99dfa9c14d1fcfed644a159fc0edc11e1abfeaa
+http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobilehd_finance.smil/playlist.m3u8?hdnea=st=1590697508~exp=1590783908~acl=/newslive/smil:mobilehd_finance.smil/*~hmac=77697baed7b085d2e97df49c83e18ae3191d15774aeb5207586671597c994110
 
